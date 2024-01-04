@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "lucide-react": "^0.304.0",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18"
@@ -21,9 +22,10 @@
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
-    "plugin": "^0.3.3",
+    "plugin": "^0.0.15",
     "postcss": "^8",
     "prettier": "^3.1.1",
+    "prettier-plugin-tailwindcss": "^0.5.10",
     "tailwindcss": "^3.4.0",
     "typescript": "^5"
   }
