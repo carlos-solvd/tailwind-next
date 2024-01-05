@@ -9,8 +9,8 @@ export function Profile() {
         className="h-10 w-10 rounded-full"
       />
       <div className="flex flex-1 flex-col truncate">
-        <span className="text-sm font-semibold text-zinc-700">
-          Diego Fernandes
+        <span className="truncate text-sm font-semibold text-zinc-700">
+          Carlos Eduardo
         </span>
         <span className=" truncate text-sm text-zinc-500">
           cealvesdegodoi@solvd.com
